@@ -1,5 +1,5 @@
 import './test';
+import exampleFunction from './example';
 
-console.log('test123');
-
+exampleFunction();
 console.log('main');
