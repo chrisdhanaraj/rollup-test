@@ -1,5 +1,8 @@
 console.log('test');
 
-console.log('test123');
+var exampleFunction = function exampleFunction() {
+  console.log('test');
+};
 
+exampleFunction();
 console.log('main');
